@@ -1,2 +1,2 @@
 # ansibe_pibuild
-Building pi 400 with raspian
+Building Raspian Pi 400 with Ansible
